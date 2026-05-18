@@ -21,7 +21,7 @@
 
 <div align="center">
 
-```
+```txt
 ╔══════════════════════════════════════════════════════════════════════╗
 ║   MISSION: Build AI systems that solve real-world problems at scale  ║
 ║   VISION:  SAKRA VISION — Ideas to Execution                         ║
@@ -44,26 +44,22 @@ AI/ML Engineer &nbsp;•&nbsp; Python Full-Stack Developer &nbsp;•&nbsp; SQL D
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
-╔═══════════════════════════════════════════════╗
-║          LIKITH NAIDU ANUMAKONDA              ║
-╠═══════════════════════════════════════════════╣
-  name       : Likith Naidu Anumakonda
-  alias      : LIKITH-3012-MAC
-  role       : AI/ML Engineer | Founder
-  company    : SAKRA VISION (Self-Founded)
-  flagship   : Resolvit AI / Resolvit Care
-  language   : Python ████████████ 100%
-  dev_type   : End-to-End AI Product Builder
-  location   : India 🇮🇳
-  status     : Building in Public 🚀
-╠═══════════════════════════════════════════════╣
-  focus_areas:
-    ✦ Artificial Intelligence & Machine Learning
-    ✦ LLMs + RAG Systems
-    ✦ Python Full-Stack (Flask / FastAPI / React)
-    ✦ Cloud Deployment & MLOps
-    ✦ Civic Tech & Social Impact AI
-╚═══════════════════════════════════════════════╝
+name       : Likith Naidu Anumakonda
+alias      : LIKITH-3012-MAC
+role       : AI/ML Engineer | Founder
+company    : SAKRA VISION
+flagship   : Resolvit AI / Resolvit Care
+language   : Python 100%
+dev_type   : End-to-End AI Product Builder
+location   : India 🇮🇳
+status     : Building in Public 🚀
+
+focus_areas:
+  - Artificial Intelligence & Machine Learning
+  - LLMs + RAG Systems
+  - Python Full-Stack Development
+  - Cloud Deployment & MLOps
+  - Civic Tech & Social Impact AI
 ```
 
 <br clear="right"/>
@@ -74,8 +70,7 @@ AI/ML Engineer &nbsp;•&nbsp; Python Full-Stack Developer &nbsp;•&nbsp; SQL D
 
 <div align="center">
 
-> *"I don't just write code — I design AI systems, build full-stack products,*
-> *connect models to real users, and deploy ideas into the real world."* 🚀
+> *"I don't just write code — I design AI systems, build full-stack products, connect models to real users, and deploy ideas into the real world."* 🚀
 
 </div>
 
@@ -84,29 +79,30 @@ AI/ML Engineer &nbsp;•&nbsp; Python Full-Stack Developer &nbsp;•&nbsp; SQL D
 <td width="50%">
 
 ### 🤖 AI / ML Engineering
+
 - Machine Learning Models & Pipelines
-- Deep Learning (CNN, RNN, Transformers)
-- Natural Language Processing
+- Deep Learning: CNN, RNN, NLP
 - Computer Vision & OpenCV
 - LLM Applications & Prompt Engineering
 - RAG Pipelines & Vector Search
 - Real-time AI Assistants & Chatbots
-- Model Evaluation, Tuning & Serialization
-- AI Product Development (End-to-End)
+- Model Evaluation & Deployment
+- AI Product Development
 
 </td>
 <td width="50%">
 
 ### 🌐 Full-Stack Engineering
-- Python Backend (Flask, FastAPI)
+
+- Python Backend: Flask, FastAPI
 - React UI + Tailwind CSS
 - HTML5 / CSS3 / JavaScript
 - Node.js REST APIs
 - SQL & NoSQL Databases
 - Authentication Systems & JWT
-- Webhooks & Third-party Integrations
+- Webhooks & Integrations
 - CI/CD Pipelines & Docker
-- Cloud Deployment (Render, Railway, AWS, GCP)
+- Cloud Deployment
 
 </td>
 </tr>
@@ -249,6 +245,7 @@ AI/ML Engineer &nbsp;•&nbsp; Python Full-Stack Developer &nbsp;•&nbsp; SQL D
 <td width="33%">
 
 ### 🧠 Machine Learning
+
 - Regression & Classification
 - Clustering & Feature Engineering
 - Model Selection & Hyperparameter Tuning
@@ -260,10 +257,11 @@ AI/ML Engineer &nbsp;•&nbsp; Python Full-Stack Developer &nbsp;•&nbsp; SQL D
 <td width="33%">
 
 ### 🔥 Deep Learning
+
 - Neural Networks from Scratch
-- CNN (Convolutional Neural Networks)
-- RNN / LSTM (Sequence Models)
-- NLP Models & Text Classification
+- CNN
+- RNN / LSTM
+- NLP Models
 - Computer Vision Projects
 - Transfer Learning
 - TensorFlow & PyTorch
@@ -272,8 +270,9 @@ AI/ML Engineer &nbsp;•&nbsp; Python Full-Stack Developer &nbsp;•&nbsp; SQL D
 <td width="33%">
 
 ### 🤖 GenAI Systems
+
 - LLM Application Development
-- RAG (Retrieval Augmented Generation)
+- RAG
 - Vector Search & Embeddings
 - Prompt Engineering
 - AI Agents & Tool-Calling
@@ -288,7 +287,7 @@ AI/ML Engineer &nbsp;•&nbsp; Python Full-Stack Developer &nbsp;•&nbsp; SQL D
 
 ## 🏗️ My Developer Stack
 
-```
+```txt
 ┌─────────────────────────────────────────────────────────────────────┐
 │                      MY FULL DEVELOPER STACK                        │
 ├──────────────────┬──────────────────────────────────────────────────┤
@@ -311,20 +310,21 @@ AI/ML Engineer &nbsp;•&nbsp; Python Full-Stack Developer &nbsp;•&nbsp; SQL D
 <div align="center">
 
 ### 🛡️ Resolvit AI / Resolvit Care
+
 **AI-powered civic intelligence and issue-resolution platform**
 
 </div>
 
-```
+```txt
 📱 Citizen Reports
         ↓
-🤖 AI Classification (NLP + Category Detection)
+🤖 AI Classification
         ↓
-⚡ Urgency Scoring (ML Model)
+⚡ Urgency Scoring
         ↓
-📍 Location Intelligence (Geo-tagging)
+📍 Location Intelligence
         ↓
-🏢 NGO / Volunteer / Authority Assignment (RAG)
+🏢 NGO / Volunteer / Authority Assignment
         ↓
 📡 Live Tracking Dashboard
         ↓
@@ -345,11 +345,7 @@ AI/ML Engineer &nbsp;•&nbsp; Python Full-Stack Developer &nbsp;•&nbsp; SQL D
 
 ---
 
-<div align="center">
-
-### 🔬 More Projects in My Arsenal
-
-</div>
+## 🔬 More Projects in My Arsenal
 
 | # | Project | Tech Stack | Domain |
 |---|---------|-----------|--------|
@@ -365,27 +361,27 @@ AI/ML Engineer &nbsp;•&nbsp; Python Full-Stack Developer &nbsp;•&nbsp; SQL D
 
 ## 🧪 ML Model Deployment Pipeline
 
-```
+```txt
 ┌────────────────────────────────────────────────────────────────────┐
 │                    ML DEPLOYMENT PIPELINE                          │
 │                                                                    │
 │  📦 Dataset Collection                                             │
 │       ↓                                                            │
-│  🔧 Preprocessing & Feature Engineering                           │
+│  🔧 Preprocessing & Feature Engineering                            │
 │       ↓                                                            │
-│  🏋️  Model Training  (Scikit-learn / TF / PyTorch)               │
+│  🏋️  Model Training                                                │
 │       ↓                                                            │
-│  📊 Evaluation  (Accuracy · F1 · AUC-ROC)                         │
+│  📊 Evaluation                                                     │
 │       ↓                                                            │
 │  💾 Model Export  (.pkl / .onnx)                                   │
 │       ↓                                                            │
-│  🌐 API Integration  (FastAPI / Flask)                             │
+│  🌐 API Integration                                                │
 │       ↓                                                            │
-│  🖥️  Frontend Connection  (React / JS)                             │
+│  🖥️  Frontend Connection                                           │
 │       ↓                                                            │
-│  ☁️  Cloud Deployment  (Docker → Render / Railway / AWS)          │
+│  ☁️  Cloud Deployment                                              │
 │       ↓                                                            │
-│  👤 Real User Testing → Monitoring → Retraining Loop              │
+│  👤 Real User Testing → Monitoring → Retraining Loop               │
 └────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -422,17 +418,13 @@ currently_learning = {
 
 ## 🎓 Education & Certifications
 
-<div align="center">
-
 | 🏫 Credential | 🏛️ Institution / Platform | 📅 Year |
 |:---|:---|:---:|
-| 🎓 B.Tech / Engineering | India 🇮🇳 | 2024–2028 |
-| 🤖 Python & AI/ML | Self-Taught + Real Projects | Ongoing |
+| 🎓 B.Tech CSE-AI | PBR VITS, India 🇮🇳 | 2024–2028 |
+| 🤖 AI/ML Certification | IIT Patna Program | Ongoing |
 | ☁️ Google Developer Profile | [g.dev/likithai](https://g.dev/likithai) | Active |
-| 🧠 Deep Learning | Hands-on Projects (TF + PyTorch) | Ongoing |
+| 🧠 Deep Learning | Hands-on Projects | Ongoing |
 | 📊 Data Science & Analytics | Real-World Datasets | Ongoing |
-
-</div>
 
 ---
 
@@ -440,14 +432,12 @@ currently_learning = {
 
 ```python
 fun_facts = [
-    "🐍  Python is my first language, last language, and the only one that matters",
-    "🌙  I code best between 10 PM and 3 AM — night owl by nature",
-    "🤖  I've built AI models before fully understanding all the math behind them",
-    "🚀  I treat every side project as if it's a funded startup",
-    "☕  Chai-fueled debugging sessions are my superpower",
-    "📱  I believe the best apps solve problems no one has noticed yet",
-    "🔁  My git commit history tells a better story than my resume",
-    "🧠  I read AI research papers for fun — yes, really",
+    "🐍 Python is my first language, last language, and the only one that matters",
+    "🌙 I code best between 10 PM and 3 AM",
+    "🚀 I treat every side project as if it's a funded startup",
+    "☕ Chai-fueled debugging sessions are my superpower",
+    "📱 I believe the best apps solve problems no one has noticed yet",
+    "🔁 My git commit history tells a better story than my resume",
 ]
 ```
 
@@ -495,7 +485,11 @@ fun_facts = [
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LIKITH-3012-MAC/LIKITH-3012-MAC/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIKITH-3012-MAC/LIKITH-3012-MAC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LIKITH-3012-MAC/LIKITH-3012-MAC/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LIKITH-3012-MAC/LIKITH-3012-MAC/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -515,17 +509,15 @@ fun_facts = [
 
 <div align="center">
 
-```
+```txt
 ╔═══════════════════════════════════════════════════════════╗
 ║                  THE SAKRA VISION WAY                     ║
 ╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║   🧬  Learn Deeply       → Understand the fundamentals   ║
-║   🔨  Build Practically  → Ship real, working products   ║
-║   ☁️   Deploy Professionally → Production, not just demo  ║
-║   🧠  Think Like an Engineer → Systems, not just scripts  ║
-║   🚀  Move Like a Founder  → Speed + Vision + Ownership  ║
-║                                                           ║
+║   🧬 Learn Deeply              → Understand fundamentals  ║
+║   🔨 Build Practically         → Ship working products    ║
+║   ☁️  Deploy Professionally     → Production, not demo     ║
+║   🧠 Think Like an Engineer    → Systems, not scripts     ║
+║   🚀 Move Like a Founder       → Speed + Vision + Owner   ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
@@ -559,7 +551,7 @@ fun_facts = [
 
 <br/><br/>
 
-```
+```txt
 ⭐  "Code is not just syntax. Code is execution of vision."
                                         — Likith Naidu Anumakonda
 ```
